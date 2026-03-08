@@ -21,6 +21,11 @@ I’m a passionate learner exploring the dynamic intersection of finance, techno
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TanishChhibber&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
+
+## <img src="https://github.com/user-attachments/assets/0c81140c-ed34-48ed-844f-4ccc248bdb98" width="30"/> Leetcode Status
+[![LeetCode Stats](https://leetcard.jacoblin.cool/TanishChhibber)](https://leetcode.com/u/TanishChhibber/)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
