@@ -1,5 +1,12 @@
 # 💫 About Me:
-I’m a passionate learner exploring the dynamic intersection of finance, technology, and management. With hands-on experience in stock market analysis and Web Development, I’m also an aspiring data analyst with a strong drive to bring analytical thinking and strategic insight into real-world business challenges.<br><br>I love transforming abstract ideas into real, workable solutions. Through hands-on projects and collaborative experiences, I’ve developed a builder’s mindset-where strategy meets creativity, and every challenge becomes an opportunity to innovate.<br><br>I’m continuously building my capabilities in financial modeling, coding, market research, and project management, and I’m especially excited about opportunities in fintech, investment analysis, and business strategy.<br><br>Open to connections, collaborations, and opportunities to grow - let’s connect!
+I’m a BCA graduate building my career at the intersection of **Finance, Data Analytics, and UI/UX Design**. My experience across these areas has shaped the way I approach problems, combining analytical thinking, business understanding, and a strong focus on how people interact with products and information.
+
+I’ve worked on projects involving **stock market analysis, data-driven problem solving, and UI/UX design**, giving me a practical understanding of how data, business objectives, and user needs come together to create better solutions.
+
+I’m currently focused on strengthening my expertise in **financial analysis, data analytics, and product design**, with the goal of working on meaningful, technology-driven products and business problems.
+
+Open to connecting with professionals, teams, and opportunities where I can contribute, learn, and grow.
+
 
 
 ## 🌐 Socials:
